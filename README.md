@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Youngseong Kim
 
-**Independent AI Researcher** | Building the **GWO Ecosystem**
+**Independent AI Researcher** | Building the **GWO Projects**
 
 > *"Window is Everything: A Grammar for Neural Operations"*
 
@@ -8,7 +8,7 @@
 
 I'm an independent researcher passionate about understanding and unifying the fundamental operations in deep learning. My work focuses on creating principled frameworks that bridge theory and practice in neural architecture design.
 
-Currently working on expanding the **Generalized Windowed Operation (GWO)** ecosystem—a theoretical framework that unifies matrix multiplication, convolution, and attention mechanisms through a shared grammar.
+Currently working on expanding the **Generalized Windowed Operation (GWO)** Projects—a theoretical framework that unifies matrix multiplication, convolution, and attention mechanisms through a shared grammar.
 
 ## 📝 Research Highlights
 
@@ -26,7 +26,7 @@ A unified theory of neural operations that decomposes any operation into three o
 
 ## 🚀 Current Focus
 
-Building the **GWO Ecosystem**:
+Building the **GWO Projects**:
 - 🔧 Practical implementations and tooling
 - 📚 Educational resources and tutorials
 - 🤝 Community-driven architecture discovery
