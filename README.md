@@ -49,3 +49,4 @@ PyTorch implementation of Factorized Attention mechanisms, derived from the P/S/
 
 ## Get in Touch
 - Email: dafaafafaf33@gmail.com
+- Twitter / X: https://x.com/salam341353
